@@ -1,9 +1,14 @@
 .gradle
 build
+bin
 .idea
 *.iml
 *.ipr
 *.iws
 .DS_Store
 .env
+.project
+.classpath
+.settings
+.vscode
 ci/variables.yml
