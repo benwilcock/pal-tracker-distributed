@@ -14,3 +14,6 @@ applications:
   - tracker-registration-database
   - tracker-service-registry
   - tracker-sso
+  - tracker-circuit-breaker-dashboard
+  - tracker-amqp
+

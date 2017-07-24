@@ -1,0 +1,1 @@
+curl -k 'https://p-identity.login.sys.longs.pal.pivotal.io/oauth/token' -i -u '0710acff-767d-42e4-93c3-5e71dddb31b4:e79d1844-2cbd-4cec-9c58-6c31a7366609' -X POST -H 'Accept: application/json' -H 'Content-Type: application/x-www-form-urlencoded' -d 'grant_type=client_credentials&response_type=token'
